@@ -2,7 +2,7 @@
 
 Adrian Vo
 
-https://addrain1.github.io/Lab5_Starter/expose.html
+https://addrain1.github.io/Lab5_Starter/expose.html <br>
 https://addrain1.github.io/Lab5_Starter/explore.html
 
 Part 3
